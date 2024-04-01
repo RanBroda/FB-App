@@ -1,0 +1,12 @@
+C:\Users\ranbr\Downloads\C23 Ex03 LiorRefael 315610469 RanBroda 316017045\FacebookWinFormsApp\obj\x64\Debug\FacebookWinFormsApp.csproj.AssemblyReference.cache
+C:\Users\ranbr\Downloads\C23 Ex03 LiorRefael 315610469 RanBroda 316017045\FacebookWinFormsApp\obj\x64\Debug\BasicFacebookFeatures.FormMain.resources
+C:\Users\ranbr\Downloads\C23 Ex03 LiorRefael 315610469 RanBroda 316017045\FacebookWinFormsApp\obj\x64\Debug\BasicFacebookFeatures.FriendsForm.resources
+C:\Users\ranbr\Downloads\C23 Ex03 LiorRefael 315610469 RanBroda 316017045\FacebookWinFormsApp\obj\x64\Debug\BasicFacebookFeatures.GroupsForm.resources
+C:\Users\ranbr\Downloads\C23 Ex03 LiorRefael 315610469 RanBroda 316017045\FacebookWinFormsApp\obj\x64\Debug\BasicFacebookFeatures.GuessingGameForm.resources
+C:\Users\ranbr\Downloads\C23 Ex03 LiorRefael 315610469 RanBroda 316017045\FacebookWinFormsApp\obj\x64\Debug\BasicFacebookFeatures.HomePage.resources
+C:\Users\ranbr\Downloads\C23 Ex03 LiorRefael 315610469 RanBroda 316017045\FacebookWinFormsApp\obj\x64\Debug\BasicFacebookFeatures.PostFromThePastForm.resources
+C:\Users\ranbr\Downloads\C23 Ex03 LiorRefael 315610469 RanBroda 316017045\FacebookWinFormsApp\obj\x64\Debug\BasicFacebookFeatures.PhotosForm.resources
+C:\Users\ranbr\Downloads\C23 Ex03 LiorRefael 315610469 RanBroda 316017045\FacebookWinFormsApp\obj\x64\Debug\BasicFacebookFeatures.PostsForm.resources
+C:\Users\ranbr\Downloads\C23 Ex03 LiorRefael 315610469 RanBroda 316017045\FacebookWinFormsApp\obj\x64\Debug\BasicFacebookFeatures.Properties.Resources.resources
+C:\Users\ranbr\Downloads\C23 Ex03 LiorRefael 315610469 RanBroda 316017045\FacebookWinFormsApp\obj\x64\Debug\FacebookWinFormsApp.csproj.GenerateResource.cache
+C:\Users\ranbr\Downloads\C23 Ex03 LiorRefael 315610469 RanBroda 316017045\FacebookWinFormsApp\obj\x64\Debug\FacebookWinFormsApp.csproj.CoreCompileInputs.cache
